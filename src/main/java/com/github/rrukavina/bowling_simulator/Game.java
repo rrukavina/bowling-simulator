@@ -8,7 +8,7 @@ public class Game {
     public static final int INCOMPLETE_GAME_SCORE = -1;
     public static final int TOTAL_FRAMES_IN_GAME = 10;
 
-    // List of frames built up as the shot sequence is process. Current frame
+    // List of frames built up as the shot sequence is processed. Current frame
     // is the last frame on the list.
     private List<BowlingFrame> frames = new ArrayList<>();
 
