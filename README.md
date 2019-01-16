@@ -1,10 +1,10 @@
 # bowling-simulator
 
-##Overview
+## Overview
 
 A console application, which, given a valid sequence of rolls for one line of American Ten-Pin Bowling, produces the total score for the game.
 
-##How to Build
+## How to Build
 
 Prerequisite is that maven and JRE is installed and in your path.
 
